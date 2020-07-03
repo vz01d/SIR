@@ -1,2 +1,2 @@
 # SIR
-social committee communication v4
+social communication v4
